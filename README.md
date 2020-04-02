@@ -1,9 +1,9 @@
-# Climatescape
+# codeforearth
 
-**Discover the organizations solving climate change**
+**Discover opensource projects**
 
-This is the source code behind [climatescape.org][climatescape], an open
-database of organizations leading the fight against climate change.
+This is the source code behind [codeforearth.in][codeforearth], an open
+database of opensource projects solving environmental problems usign code.
 
 ## Developer Setup
 
@@ -13,8 +13,8 @@ helping out. Simply fill out the [Climatescape Contributor Application][contribu
 
 1. Follow these steps to get the project installed on your local dev machine.
    ```bash
-   $ git clone https://github.com/climatescape/climatescape.org.git
-   $ cd climatescape.org
+   $ git clone https://github.com/sarveshwarge/codeforearth.git
+   $ cd codeforearth
    $ npm install
    ```
 2. Copy your Airtable API key from this page: [Airtable account][airtable-account]
@@ -85,8 +85,8 @@ happen any time code is pushed to GitHub, whether to master or another branch.
 Additionally, we use [Zapier][zapier] to deploy once per day in order to publish
 new content even when code changes aren't happening.
 
-[climatescape]: https://climatescape.org/
-[contributor-app]: https://airtable.com/shr4WZDPBs7mk1doW
+[climatescape]: http://codeforearth.in
+[contributor-app]: https://airtable.com/shriEwwZPZenbfjtw
 [airtable-account]: https://airtable.com/account
 [gatsby]: https://www.gatsbyjs.org/
 [react]: https://reactjs.org/
